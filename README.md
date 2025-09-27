@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @akusangatpro
 - 👀 I’m interested in game development 
 - 🌱 I’m currently learning JavaScript 
-- ⚡ Fun fact: I'm student in junior high school 
+- ⚡ Fun fact: I'm student in senior high school 
 
 <!---
 akusangatpro/akusangatpro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
